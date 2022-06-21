@@ -13,6 +13,7 @@
   "Status": "Open",
   "Environment": "Windows 2010/SQL Server 2010",
   "Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application",
+}
    "Steps to Reproduce": {
    "1": "Login into the Application",
    "2": "Navigate to the Users Menu -> New User",
@@ -28,5 +29,4 @@
   {
    " You will get a Bug ID that you can use for further bug reference",
    "Default ‘New Bug’ mail will go to the respective developer and the default module owner (Team leader or manager) for further action",
-}
 }
