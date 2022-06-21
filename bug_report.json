@@ -6,13 +6,13 @@
   "Severity": "High",
   "Priority": "High",
   "Assigned to":{  
-   "Developer-X":
-   "Reported By": "VIKA K",
-   "Reported On": "30.05.2022",
-   "Reason": "Defect",
-   "Status": "Open",
-   "Environment": "Windows 2010/SQL Server 2010",
-   "Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application"
+  "Developer-X":
+  "Reported By": "VIKA K",
+  "Reported On": "30.05.2022",
+  "Reason": "Defect",
+  "Status": "Open",
+  "Environment": "Windows 2010/SQL Server 2010",
+  "Description": "Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application"
   },
    "Steps to Reproduce":{
    "1": "Login into the Application",
