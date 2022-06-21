@@ -26,6 +26,6 @@
    "(Attach ‘application crash’ screenshot. IF any)"},
   {
    "Save the Defect/Bug in the BUG TRACKING TOOL": 
-   " You will get a Bug ID that you can use for further bug reference":
+   " You will get a Bug ID that you can use for further bug reference",
    "Default ‘New Bug’ mail will go to the respective developer and the default module owner (Team leader or manager) for further action",
 }
