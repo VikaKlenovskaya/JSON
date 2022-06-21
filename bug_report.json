@@ -24,7 +24,7 @@
    },
    "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”",
    "(Attach ‘application crash’ screenshot. IF any)",
-   "Save the Defect/Bug in the BUG TRACKING TOOL", 
+   "Save the Defect/Bug in the BUG TRACKING TOOL" : { 
    " You will get a Bug ID that you can use for further bug reference",
    "Default ‘New Bug’ mail will go to the respective developer and the default module owner (Team leader or manager) for further action",
 }
